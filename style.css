@@ -129,7 +129,7 @@ span,
   .grid-container {
     display: flex;
     flex-direction: column;
-    height: 370vh;
+   
   }
   .grid-5 {
     margin-bottom: 1rem;
